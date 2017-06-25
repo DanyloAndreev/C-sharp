@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2017\Projects\MyFirstAppCSharp\MyFirstAppCSharp\bin\Debug\MyFirstAppCSharp.exe.config
+c:\users\user\documents\visual studio 2017\Projects\MyFirstAppCSharp\MyFirstAppCSharp\bin\Debug\MyFirstAppCSharp.exe
+c:\users\user\documents\visual studio 2017\Projects\MyFirstAppCSharp\MyFirstAppCSharp\bin\Debug\MyFirstAppCSharp.pdb
+c:\users\user\documents\visual studio 2017\Projects\MyFirstAppCSharp\MyFirstAppCSharp\obj\Debug\MyFirstAppCSharp.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2017\Projects\MyFirstAppCSharp\MyFirstAppCSharp\obj\Debug\MyFirstAppCSharp.exe
+c:\users\user\documents\visual studio 2017\Projects\MyFirstAppCSharp\MyFirstAppCSharp\obj\Debug\MyFirstAppCSharp.pdb

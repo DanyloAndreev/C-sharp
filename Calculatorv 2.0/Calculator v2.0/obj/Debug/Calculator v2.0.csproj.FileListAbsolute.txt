@@ -1,0 +1,9 @@
+C:\Users\User\documents\visual studio 2017\Projects\Calculator v2.0\Calculator v2.0\bin\Debug\Calculator v2.0.exe.config
+C:\Users\User\documents\visual studio 2017\Projects\Calculator v2.0\Calculator v2.0\bin\Debug\Calculator v2.0.exe
+C:\Users\User\documents\visual studio 2017\Projects\Calculator v2.0\Calculator v2.0\bin\Debug\Calculator v2.0.pdb
+C:\Users\User\documents\visual studio 2017\Projects\Calculator v2.0\Calculator v2.0\obj\Debug\Calculator v2.0.csprojResolveAssemblyReference.cache
+C:\Users\User\documents\visual studio 2017\Projects\Calculator v2.0\Calculator v2.0\obj\Debug\Calculator v2.0.exe
+C:\Users\User\documents\visual studio 2017\Projects\Calculator v2.0\Calculator v2.0\obj\Debug\Calculator v2.0.pdb
+C:\Users\danyl\Documents\Visual Studio 2017\Projects\Calculator v2.0\Calculator v2.0\obj\Debug\Calculator v2.0.csprojResolveAssemblyReference.cache
+C:\Users\danyl\Documents\Visual Studio 2017\Projects\Calculator v2.0\Calculator v2.0\obj\Debug\Calculator v2.0.exe
+C:\Users\danyl\Documents\Visual Studio 2017\Projects\Calculator v2.0\Calculator v2.0\obj\Debug\Calculator v2.0.pdb

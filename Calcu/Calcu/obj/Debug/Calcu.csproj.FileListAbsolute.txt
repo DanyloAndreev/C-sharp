@@ -1,0 +1,6 @@
+c:\users\danyl\documents\visual studio 2017\Projects\Calcu\Calcu\bin\Debug\Calcu.exe.config
+c:\users\danyl\documents\visual studio 2017\Projects\Calcu\Calcu\bin\Debug\Calcu.exe
+c:\users\danyl\documents\visual studio 2017\Projects\Calcu\Calcu\bin\Debug\Calcu.pdb
+c:\users\danyl\documents\visual studio 2017\Projects\Calcu\Calcu\obj\Debug\Calcu.csprojResolveAssemblyReference.cache
+c:\users\danyl\documents\visual studio 2017\Projects\Calcu\Calcu\obj\Debug\Calcu.exe
+c:\users\danyl\documents\visual studio 2017\Projects\Calcu\Calcu\obj\Debug\Calcu.pdb
